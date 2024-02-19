@@ -1,0 +1,73 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Agnes Site
+theme: agnes-hugo-theme
+params:
+  authorName: Ported to Hugo by Debashish
+  content:
+    ButtonCaption: Pricing & Plans
+    ButtonURL: http://google.com
+    LeadDescription:  We specialize in leveraging AI technologies to streamline patent operations, reduce costs, and accelerate decision-making processes.
+    LeadTitle: An AI Startup with cutting-edge AI solutions
+  dateFormat: Jan 2, 2023
+  feature:
+    - FeatureDescription: A pseudo-Latin text used in web design, layout, and printing
+        in place of English to emphasise design elements.
+      FeatureImage: images/feature-1.png
+      FeatureTitle: Feature 1
+    - FeatureDescription: A pseudo-Latin text used in web design, layout, and printing
+        in place of English to emphasise design elements.
+      FeatureImage: images/feature-2.png
+      FeatureTitle: Feature 2
+    - FeatureDescription: A pseudo-Latin text used in web design, layout, and printing
+        in place of English to emphasise design elements.
+      FeatureImage: images/feature-3.png
+      FeatureTitle: Feature 3
+    - FeatureDescription: A pseudo-Latin text used in web design, layout, and printing
+        in place of English to emphasise design elements.
+      FeatureImage: images/feature-4.png
+      FeatureTitle: Feature 4
+  google_analytics_id: GA-
+  pricing:
+    - ButtonCaption: Get Early Access
+      Features:
+        - Description: Lorem ipsum is common text
+        - Description: Lorem ipsum is common text
+        - Description: Lorem ipsum is common text
+        - Description: Lorem ipsum is common text
+      PricingRate: '27'
+      PricingTitle: Starter
+    - ButtonCaption: Get Earlier Access
+      Features:
+        - Description: Lorem ipsum is common text
+        - Description: Lorem ipsum is common text
+        - Description: Lorem ipsum is common text
+        - Description: Lorem ipsum is common text
+      PricingRate: '97'
+      PricingTitle: Professional
+    - ButtonCaption: Get Earliest Access
+      Features:
+        - Description: Lorem ipsum is common text
+        - Description: Lorem ipsum is common text
+        - Description: Lorem ipsum is common text
+        - Description: Lorem ipsum is common text
+      PricingRate: '147'
+      PricingTitle: Business
+  social:
+    FacebookURL: https://facebook.com/podbharati
+    GoogleURL: http://google.com
+    TwitterURL: https://twitter.com/podbharati
+menu:
+  main:
+    - Name: Contact
+      URL: '#'
+      weight: 1
+    - Name: About us
+      URL: '#'
+      weight: 2
+    - Name: FAQ's
+      URL: '#'
+      weight: 3
+    - Name: Support
+      URL: '#'
+      weight: 4
