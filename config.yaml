@@ -16,7 +16,7 @@ params:
       FeatureTitle: Intelligent Patent Search Engine
     - FeatureDescription: This tool employs machine learning algorithms to automatically categorize and label patent documents, aiding users in swiftly filtering and identifying patents in relevant fields. It also offers in-depth data analysis, revealing industry trends and directions of technological development.
       FeatureImage: images/feature-2.png
-      FeatureTitle: Patent Classification and Analysis Too
+      FeatureTitle: Patent Classification and Analysis Tool
     - FeatureDescription:  Integrates AI models and historical data analysis to evaluate the potential value and commercialization prospects of patents, providing data support for patent transactions and licensing decisions.
       FeatureImage: images/feature-3.png
       FeatureTitle: Patent Value Assessment System
@@ -27,32 +27,31 @@ params:
   pricing:
     - ButtonCaption: Get Early Access
       Features:
-        - Description: Lorem ipsum is common text
-        - Description: Lorem ipsum is common text
-        - Description: Lorem ipsum is common text
-        - Description: Lorem ipsum is common text
+        - Description: Development of tailored AI tools and systems specific to patent companies needs.
+        - Description: Focus on automation and intelligence in patent document processing and intelligent 
+        - Description: recommendation systems.
       PricingRate: '27'
-      PricingTitle: Starter
+      PricingTitle: Customized AI Solutions
     - ButtonCaption: Get Earlier Access
       Features:
-        - Description: Lorem ipsum is common text
-        - Description: Lorem ipsum is common text
-        - Description: Lorem ipsum is common text
-        - Description: Lorem ipsum is common text
+        - Description: Professional consulting services to help understand 
+        - Description: and apply the latest AI technologies.
+        - Description: Support for achieving automation and intelligence in patent management and operations.
+
       PricingRate: '97'
-      PricingTitle: Professional
+      PricingTitle: Technical Consulting
     - ButtonCaption: Get Earliest Access
       Features:
-        - Description: Lorem ipsum is common text
-        - Description: Lorem ipsum is common text
-        - Description: Lorem ipsum is common text
-        - Description: Lorem ipsum is common text
+        - Description: Comprehensive big data services including processing
+        - Description: cleaning, and analysis. 
+        - Description: Aimed at extracting valuable insights from extensive patent datasets.
+        
       PricingRate: '147'
-      PricingTitle: Business
+      PricingTitle: Data Processing and Analysis
   social:
-    FacebookURL: https://facebook.com/podbharati
+    FacebookURL: https://facebook.com/
     GoogleURL: http://google.com
-    TwitterURL: https://twitter.com/podbharati
+    TwitterURL: https://twitter.com/
 menu:
   main:
     - Name: Contact
