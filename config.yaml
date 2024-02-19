@@ -11,22 +11,18 @@ params:
     LeadTitle: An AI Startup with cutting-edge AI solutions
   dateFormat: Jan 2, 2023
   feature:
-    - FeatureDescription: A pseudo-Latin text used in web design, layout, and printing
-        in place of English to emphasise design elements.
+    - FeatureDescription:  Utilizing Natural Language Processing (NLP) technology, this engine allows users to conduct precise patent searches through natural language queries, significantly enhancing the speed and accuracy of finding relevant patents.
       FeatureImage: images/feature-1.png
-      FeatureTitle: Feature 1
-    - FeatureDescription: A pseudo-Latin text used in web design, layout, and printing
-        in place of English to emphasise design elements.
+      FeatureTitle: Intelligent Patent Search Engine
+    - FeatureDescription: This tool employs machine learning algorithms to automatically categorize and label patent documents, aiding users in swiftly filtering and identifying patents in relevant fields. It also offers in-depth data analysis, revealing industry trends and directions of technological development.
       FeatureImage: images/feature-2.png
-      FeatureTitle: Feature 2
-    - FeatureDescription: A pseudo-Latin text used in web design, layout, and printing
-        in place of English to emphasise design elements.
+      FeatureTitle: Patent Classification and Analysis Too
+    - FeatureDescription:  Integrates AI models and historical data analysis to evaluate the potential value and commercialization prospects of patents, providing data support for patent transactions and licensing decisions.
       FeatureImage: images/feature-3.png
-      FeatureTitle: Feature 3
-    - FeatureDescription: A pseudo-Latin text used in web design, layout, and printing
-        in place of English to emphasise design elements.
+      FeatureTitle: Patent Value Assessment System
+    - FeatureDescription: Utilizing advanced predictive models to analyze trends in patent applications and grants, forecasting the future direction of technological development, helping patent companies grasp industry dynamics, and optimizing R&D and investment strategies.
       FeatureImage: images/feature-4.png
-      FeatureTitle: Feature 4
+      FeatureTitle: Predictive Analysis Tool
   google_analytics_id: GA-
   pricing:
     - ButtonCaption: Get Early Access
