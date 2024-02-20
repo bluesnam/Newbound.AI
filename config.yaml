@@ -1,9 +1,9 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: Agnes Site
+title: Newbound AI
 theme: agnes-hugo-theme
 params:
-  authorName: Ported to Hugo by Debashish
+  authorName: Ported to Hugo by Newman
   content:
     ButtonCaption: Pricing & Plans
     ButtonURL: http://google.com
